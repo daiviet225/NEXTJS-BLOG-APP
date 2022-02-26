@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "./PostItem.module.css";
+import styles from "./Post-Item.module.css";
 import Image from "next/image";
 
 const PostItem = (props) => {
