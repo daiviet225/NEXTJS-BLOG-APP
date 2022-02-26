@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styles from "./MainNavBar.module.css";
-import Logo from "./Logo";
+import Logo from "./Logo.js";
 
 const MainNavBar = () => {
   return (
